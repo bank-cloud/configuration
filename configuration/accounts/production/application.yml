@@ -2,3 +2,5 @@ spring:
   port: 8080
 accounts:
   allow-get-accounts: true
+eureka-client:
+  fetchRegistry: true
